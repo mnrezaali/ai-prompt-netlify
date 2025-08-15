@@ -3,7 +3,7 @@ import { GoogleGenAI, Chat } from '@google/genai';
 import {
   SparklesIcon, CopyIcon, CheckIcon, SpinnerIcon, EyeIcon, EyeSlashIcon,
   ArrowLeftOnRectangleIcon, ClockIcon, TrashIcon, ChevronDownIcon, PaperAirplaneIcon, ArrowPathIcon, ArrowDownTrayIcon
-} from './icons';
+} from '../icons';
 
 // Types
 type AccessLevel = 'none' | 'client' | 'admin';
