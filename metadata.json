@@ -1,0 +1,5 @@
+{
+  "name": "AI Assistant Prompt Generator - Cloudflare",
+  "description": "An application that takes a user's high-level idea for an AI assistant and uses Gemini to generate a detailed, structured, and effective system prompt.",
+  "requestFramePermissions": []
+}
